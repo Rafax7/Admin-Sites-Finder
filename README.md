@@ -10,9 +10,7 @@ Admin Page Finder, achar a parte admin de um site para fazer login!!
 
 <h2> :construction_worker: Criado Em <h2>
 <ul>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></li>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></li>
-  <li><a href="https://developer.mozilla.org/pt-BR/docs/Glossario/CSS">CSS</a></li>
+  <li><a href="https://www.perl.org/">PERL</a></li>
 </ul>
 
 <h2>🔔 URL Do Site <h2>
